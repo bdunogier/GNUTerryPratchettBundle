@@ -1,0 +1,4 @@
+services:
+#    bdgnu_terry_pratchett.example:
+#        class: BD\GNUTerryPratchettBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
