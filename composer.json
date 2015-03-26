@@ -1,0 +1,12 @@
+{
+    "name": "bdunogier/gnu-terry-pratchett-bundle",
+    "description": "Implementation of the X-Clacks-Overhead: GNU Terry Pratchett clacks Hack (http://www.gnuterrypratchett.com/)",
+    "authors": [
+        {
+            "name": "Bertrand Dunogier",
+            "email": "bertrand.dunogier@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
