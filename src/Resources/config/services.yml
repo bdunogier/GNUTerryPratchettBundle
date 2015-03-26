@@ -1,0 +1,5 @@
+services:
+    bd.gnu_terry_pratchett_bundle.clacks_overhead_response_listener:
+        class: BD\GNUTerryPratchettBundle\EventListener\ClacksOverheadResponseListener
+        tags:
+            - { name: kernel.event_subscriber }
